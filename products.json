@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 25.99
+  },
+  {
+    "id": 2,
+    "name": "Keyboard Mechanical",
+    "price": 45.50
+  },
+  {
+    "id": 3,
+    "name": "USB Flash Drive",
+    "price": 15.75
+  },
+  {
+    "id": 4,
+    "name": "External Hard Drive",
+    "price": 88.00
+  },
+  {
+    "id": 5,
+    "name": "Smartphone Holder",
+    "price": 9.99
+  },
+  {
+    "id": 6,
+    "name": "Waterproof Backpack",
+    "price": 70.00
+  },
+  {
+    "id": 7,
+    "name": "Digital Watch",
+    "price": 55.55
+  }
+]
